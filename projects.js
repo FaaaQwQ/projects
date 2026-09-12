@@ -1,0 +1,3 @@
+const slides=[...document.querySelectorAll('section')];let current=0;
+function go(n){current=(n+slides.length)%slides.length;slides.forEach((s,i)=>s.classList.toggle('active',i===current));document.querySelector('#count').textContent=`${current+1} / ${slides.length}`;document.querySelector('#progress').style.width=`${(current+1)/slides.length*100}%`;}
+document.querySelector('#overview').onclick=()=>document.body.classList.toggle('all');document.querySelector('#theme').onclick=()=>document.body.classList.toggle('dark');document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')go(current+1);if(e.key==='ArrowLeft')go(current-1)});go(0);
