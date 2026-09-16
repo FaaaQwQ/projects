@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
 <title id="title">IP Radar</title><desc id="desc">内容IP雷达项目封面，监控100个IP、6个平台，提供可追溯的历史趋势。</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#123e43"/><stop offset="1" stop-color="#11262d"/></linearGradient></defs>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#292735"/><stop offset="1" stop-color="#22242e"/></linearGradient></defs>
 <rect width="800" height="600" rx="24" fill="url(#bg)"/>
-<g stroke="#42877d" fill="none" opacity=".65"><circle cx="570" cy="275" r="160"/><circle cx="570" cy="275" r="112"/><circle cx="570" cy="275" r="62"/><path d="M390 275h360M570 95v360"/></g>
-<path d="M570 275L695 175A160 160 0 0 0 570 115Z" fill="#8ad8b7" opacity=".17"/><path d="M570 275L695 175" stroke="#8ad8b7" stroke-width="3"/>
-<circle cx="646" cy="214" r="7" fill="#e6c37a"/><circle cx="486" cy="324" r="5" fill="#8ad8b7"/>
-<g font-family="Arial,Microsoft YaHei,sans-serif"><text x="56" y="84" fill="#91c8bb" font-size="18" letter-spacing="4">CONTENT INTELLIGENCE</text><text x="55" y="215" fill="#fff" font-size="67" font-weight="700">IP RADAR</text><text x="58" y="264" fill="#b6d3cd" font-size="25">内容 IP 雷达</text><text x="58" y="454" fill="#fff" font-size="47" font-weight="700">100</text><text x="58" y="489" fill="#a6c6bf" font-size="19">内容 IP</text><text x="228" y="454" fill="#fff" font-size="47" font-weight="700">6</text><text x="228" y="489" fill="#a6c6bf" font-size="19">热榜平台</text><text x="58" y="551" fill="#8db9af" font-size="17">多平台观察 · 历史趋势 · 来源可追溯</text></g></svg>
+<g stroke="#756897" fill="none" opacity=".65"><circle cx="570" cy="275" r="160"/><circle cx="570" cy="275" r="112"/><circle cx="570" cy="275" r="62"/><path d="M390 275h360M570 95v360"/></g>
+<path d="M570 275L695 175A160 160 0 0 0 570 115Z" fill="#a99fff" opacity=".17"/><path d="M570 275L695 175" stroke="#a99fff" stroke-width="3"/>
+<circle cx="646" cy="214" r="7" fill="#e6c37a"/><circle cx="486" cy="324" r="5" fill="#a99fff"/>
+<g font-family="Arial,Microsoft YaHei,sans-serif"><text x="56" y="84" fill="#b7aaff" font-size="18" letter-spacing="4">CONTENT INTELLIGENCE</text><text x="55" y="215" fill="#fff" font-size="67" font-weight="700">IP RADAR</text><text x="58" y="264" fill="#c3bed5" font-size="25">内容 IP 雷达</text><text x="58" y="454" fill="#fff" font-size="47" font-weight="700">100</text><text x="58" y="489" fill="#bcbcc8" font-size="19">内容 IP</text><text x="228" y="454" fill="#fff" font-size="47" font-weight="700">6</text><text x="228" y="489" fill="#bcbcc8" font-size="19">热榜平台</text><text x="58" y="551" fill="#aaa4bf" font-size="17">多平台观察 · 历史趋势 · 来源可追溯</text></g></svg>

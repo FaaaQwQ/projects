@@ -22,3 +22,7 @@ nav>.github-control{gap:9px}nav>.github-control svg{flex-shrink:0}
 
 /* Keep image bounds equal to the visible artwork when height is limited. */
 #slides>section>.project-visual>img{width:auto;height:auto;max-width:100%;max-height:55vh;margin-inline:auto;border-radius:var(--project-image-radius)}
+
+/* Preserve the full artwork in menu thumbnails. */
+#slides .menu-preview img{display:block;width:100%;height:100%;object-fit:contain;object-position:center}
+#slides .menu-preview img~img{display:none}
